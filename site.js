@@ -37,7 +37,7 @@ const vue_app = Vue.createApp({
             ],
             title: "IMDB + Rodriguez's Top 8 MOVIES",
             owner: "Rodriguez",
-            url:'https://spoopytime.github.io/Rodriguez-P3/'
+            github:'https://spoopytime.github.io/Rodriguez-P3.git'
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
       }
     },
