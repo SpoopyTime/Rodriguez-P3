@@ -31,8 +31,13 @@ const vue_app = Vue.createApp({
       },
       data() {
         return {
+
             // This holds your movies.json data.
-            movies: [],
+            movies: [
+            ],
+            title: "IMDB + Rodriguez's Top 8 MOVIES",
+            owner: "Rodriguez",
+            url:'https://spoopytime.github.io/Rodriguez-P3/'
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
       }
     },
