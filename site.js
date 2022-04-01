@@ -84,7 +84,9 @@ const vue_app = Vue.createApp({
                 break;
               }
                 return month + " " + dateArray[2] + ", " + dateArray[0];
-              }
+              },
+
+
 
             }
 
